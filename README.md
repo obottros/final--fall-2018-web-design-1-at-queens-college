@@ -48,7 +48,7 @@ If you want to check all the CSS you’ve written in class thus far, copy [`.sty
 | **HTML error**                                            | `1` per error (max of `50`) |
 | **CSS error**                                             | `1` per error (max of `50`) |
 
-Note that HTML and CSS errors over-ride the cumulative nature of the grading scheme above. If you scored a total grade of 100, but your code generates 20 errors in HTML and CSS, then your final grade is 80. On the other hand, if you scored 100 and your project generates **no** errors, then extra credit will be applied to your midterm grade.
+Note that HTML and CSS errors over-ride the cumulative nature of the grading scheme above. For example, if you scored a total grade of 100, but your code generated 20 errors in HTML and CSS, then your final grade would be 80. On the other hand, if you scored 100 and your project generated **no** errors, then extra credit would be applied to your midterm grade.
 
 ## 📅 Due Date
 The following due date applies to both the Monday *and* Tuesday sections.
