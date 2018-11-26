@@ -53,7 +53,7 @@ Note that HTML and CSS errors over-ride the cumulative nature of the grading sch
 ## 📅 Due Date
 The following due date applies to both the Monday *and* Tuesday sections.
 
-⏰ **Sunday, 17 December 2018, at 5:00 PM. 🚫 _No late work will be accepted._**
+⏰ **Monday, 17 December 2018, at 5:00 PM. 🚫 _No late work will be accepted._**
 
 ## Submission
 1. Login to GitHub.
