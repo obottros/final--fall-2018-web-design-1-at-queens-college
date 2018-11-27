@@ -11,7 +11,7 @@ There are two code-checking/cleaning tools that you’ll need for this project: 
 ### HTML
 Ensure that you have the [w3c-validation](https://atom.io/packages/w3c-validation) installed.
 1. Launch Atom.
-2. Go to `Settings` | `Packages`.
+2. Go to `Settings` | `Install`.
 3. Search for `w3c-validation`.
 4. Install it.
 5. Restart Atom.
@@ -19,7 +19,7 @@ Ensure that you have the [w3c-validation](https://atom.io/packages/w3c-validatio
 ### CSS
 You will need to install a CSS syntax checker called [linter-stylelint](https://atom.io/packages/linter-stylelint) for Atom.
 1. Launch Atom.
-2. Go to `Settings` | `Packages`.
+2. Go to `Settings` | `Install`.
 3. Search for `linter-stylelint`.
 4. Install it.
 5. Restart Atom.
