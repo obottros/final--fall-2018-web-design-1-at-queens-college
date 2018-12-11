@@ -115,3 +115,48 @@ body {
    top: 300px;
    left: 356px;
 } */
+@media only screen and (max-width: 400px) {
+   .phone-menue {
+      top: 0;
+      display: block;
+      position: absolute;
+   }
+
+   .desktop-menue {
+      display: none;
+   }
+
+   .phone-menue a {
+      font-size: 15.26px;
+      line-height: 87.5px;
+      display: block;
+      width: 70px;
+      text-decoration: none;
+   }
+
+   .phone-menue ul > li {
+      width: 70px;
+   }
+
+   .red-bar {
+      top: 0;
+      display: inline;
+   }
+
+   .disktop-logo {
+      display: inline;
+      position: relative;
+      left: 115px;
+      z-index: 10;
+   }
+
+   .tablet-logo {
+      display: none;
+      left: 265px;
+   }
+
+   .welcome {
+      font-size: 47px;
+      left: 70px;
+   }
+}
