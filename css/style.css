@@ -36,6 +36,16 @@ body {
    display: none;
 }
 
+.navigation a {
+   color: white;
+   font-family: 'Rajdhani light', sans-serif;
+   font-size: 19.26px;
+   line-height: 55.5px;
+   display: block;
+   width: 150px;
+   text-decoration: none;
+}
+
    margin: auto;
    width: 1024px;
 }
