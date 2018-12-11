@@ -4,3 +4,9 @@
    font-weight: 300;
    font-style: normal;
 }
+@font-face {
+   font-family: 'Rajdhani SemiBold';
+   src: url('../fonts/Rajdhani-SemiBold.woff') format('woff');
+   font-weight: 700;
+   font-style: normal;
+}
