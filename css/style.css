@@ -47,6 +47,8 @@ body {
 }
 
 .desktop-menue a {
+   display: flex;
+   justify-content: space-between;
    font-family: 'Rajdhani light', sans-serif;
    font-size: 16px;
    text-decoration: none;
