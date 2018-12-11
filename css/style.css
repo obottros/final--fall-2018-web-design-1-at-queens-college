@@ -13,7 +13,14 @@ body {
    overflow-y: scroll;
 }
 
-nav {
+.menue {
+  position: fixed;
+   background-color: #6d6e71;
+   height: 55px;
+   line-height: 57px;
+   text-align: center;
+}
+
    margin: auto;
    width: 1024px;
 }
