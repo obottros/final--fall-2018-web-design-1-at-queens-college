@@ -3,6 +3,7 @@
 html {
    background-image: url('../img/desktop-background-img.png');
    background-repeat: no-repeat;
+   position: fixed;
    height: 715px;
    width: 100vw;
 }
