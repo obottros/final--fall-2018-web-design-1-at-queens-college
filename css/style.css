@@ -57,6 +57,10 @@ body {
    list-style-type: none;
 }
 
+.navigation ul > li:hover > ul {
+   visibility: visible;
+}
+
    margin: auto;
    width: 1024px;
 }
