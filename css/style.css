@@ -51,6 +51,12 @@ body {
    background-color: #aebdcc;
 }
 
+.navigation ul {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+}
+
    margin: auto;
    width: 1024px;
 }
