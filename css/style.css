@@ -55,8 +55,11 @@ body {
    margin: 100px;
 }
 
-.navigation {
-  position: fixed;
+.desktop-menue a:hover {
+   font-weight: 700;
+   cursor: pointer;
+}
+
    margin: auto;
    text-decoration: none;
    display: none;
