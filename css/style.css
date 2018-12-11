@@ -44,6 +44,7 @@ body {
    width: 1024px;
    line-height: 90px;
    text-align: center;
+   /* display: none; */
 }
 
 .menue a {
