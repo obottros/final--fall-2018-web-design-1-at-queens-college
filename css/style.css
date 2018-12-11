@@ -20,3 +20,12 @@ nav {
    width: 1024px;
 }
 
+nav a {
+   text-align: center;
+   text-decoration: none;
+   display: block;
+   width: 360px;
+   line-height: 48px;
+   color: #fff;
+}
+
