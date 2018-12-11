@@ -29,3 +29,10 @@ nav a {
    color: #fff;
 }
 
+ul {
+   margin: 0;
+   background-color: #6d6e71;
+   list-style-type: none;
+   height: 86px;
+}
+
