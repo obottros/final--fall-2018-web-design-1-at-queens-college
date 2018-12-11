@@ -57,6 +57,13 @@ body {
    list-style-type: none;
 }
 
+.navigation ul > li {
+   float: left;
+   width: 150px;
+   position: relative;
+   background-color: #6d6e71;
+}
+
 .navigation ul > li:hover > ul {
    visibility: visible;
 }
