@@ -4,7 +4,7 @@ html {
    background-image: url('../img/desktop-background-img.png');
    background-repeat: no-repeat;
    height: 715px;
-   width: 1024px;
+   width: 100vw;
 }
 
 body {
@@ -13,11 +13,6 @@ body {
    overflow-y: scroll;
 }
 
-.menue {
-  position: fixed;
-   background-color: #6d6e71;
-   height: 55px;
-   line-height: 57px;
    text-align: center;
 }
 
