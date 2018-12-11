@@ -29,6 +29,14 @@ body {
    z-index: 1;
 }
 
+.red-bar {
+   background-color: #911a1e;
+   position: absolute;
+   width: 1024px;
+   height: 87px;
+   display: none;
+}
+
    text-align: center;
 }
 
