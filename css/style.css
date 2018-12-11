@@ -55,3 +55,8 @@ nav > ul {
    list-style-type: none;
 }
 
+nav > img {
+   position: absolute;
+   left: 473px;
+}
+
