@@ -43,9 +43,7 @@ body {
    background-color: #911a1e;
    height: 87px;
    width: 1024px;
-   line-height: 90px;
-   text-align: center;
-   /* display: none; */
+   justify-content: space-between;
 }
 
 .desktop-menue a {
