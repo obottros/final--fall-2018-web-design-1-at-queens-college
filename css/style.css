@@ -36,3 +36,10 @@ ul {
    height: 86px;
 }
 
+ul li {
+   font-family: 'Rajdhani light', sans-serif;
+   font-size: 19.26px;
+   margin-top: 23px;
+   margin-left: -82px;
+}
+
