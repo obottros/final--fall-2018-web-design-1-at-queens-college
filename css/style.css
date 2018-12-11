@@ -15,3 +15,8 @@ body {
    overflow-y: scroll;
 }
 
+nav {
+   margin: auto;
+   width: 1024px;
+}
+
