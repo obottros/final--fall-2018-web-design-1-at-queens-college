@@ -37,6 +37,12 @@ body {
    display: none;
 }
 
+.desktop-menue {
+   position: absolute;
+   background-color: #911a1e;
+   height: 87px;
+   width: 1024px;
+   line-height: 90px;
    text-align: center;
 }
 
