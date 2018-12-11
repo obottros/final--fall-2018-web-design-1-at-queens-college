@@ -127,6 +127,8 @@ body {
    .desktop-menue {
       display: flex;
       flex-direction: row;
+      width: 768px;
+      justify-content: space-between;
    }
 
    .desktop-menue a {
