@@ -130,8 +130,8 @@ body {
    }
 
    .desktop-menue a {
+      position: relative;
       display: flex;
-      position: static;
       margin: 0 60px;
    }
 
