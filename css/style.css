@@ -61,6 +61,11 @@ body {
    visibility: visible;
 }
 
+.navigation ul > li > ul {
+   visibility: hidden;
+   position: absolute;
+}
+
    margin: auto;
    width: 1024px;
 }
