@@ -107,64 +107,6 @@ body {
    height: 48px;
 }
 
-/* nav {
-   margin: auto;
-   width: 1024px;
-}
-
-nav a {
-   text-align: center;
-   text-decoration: none;
-   display: block;
-   width: 360px;
-   line-height: 48px;
-   color: #fff;
-}
-
-ul {
-   width: 100%;
-   margin: 0;
-   background-color: #6d6e71;
-   list-style-type: none;
-   height: 86px;
-}
-
-ul li {
-   font-family: 'Rajdhani light', sans-serif;
-   font-size: 19.26px;
-   margin-top: 23px;
-   margin-left: -82px;
-}
-
-a:hover {
-   font-family: 'Rajdhani SemiBold', sans-serif;
-   font-weight: 700;
-}
-
-nav > ul {
-   display: flex;
-   width: 100%;
-   margin: 0;
-   padding: 0;
-   list-style-type: none;
-}
-
-.navigation {
-   display: inline-flex;
-}
-
-.navigation > li {
-   flex: 1;
-}
-
-.mainHeader {
-   position: absolute;
-   top: 10px;
-   left: 473px;
-}
-
-nav > p {
-   color: #6d6e71;
    font-family: 'Rajdhani Regular', sans-serif;
    font-weight: 400;
    font-size: 76px;
