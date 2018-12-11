@@ -29,6 +29,13 @@ body {
    margin: 100px;
 }
 
+.navigation {
+  position: fixed;
+   margin: auto;
+   text-decoration: none;
+   display: none;
+}
+
    margin: auto;
    width: 1024px;
 }
