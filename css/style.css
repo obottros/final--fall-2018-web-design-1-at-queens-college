@@ -43,3 +43,8 @@ ul li {
    margin-left: -82px;
 }
 
+a:hover {
+   font-family: 'Rajdhani SemiBold', sans-serif;
+   font-weight: 700;
+}
+
