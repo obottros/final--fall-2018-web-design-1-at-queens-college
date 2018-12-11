@@ -66,6 +66,12 @@ body {
    position: absolute;
 }
 
+.navigation ul > li > ul a {
+   line-height: 48px;
+   height: 48px;
+}
+
+/* nav {
    margin: auto;
    width: 1024px;
 }
