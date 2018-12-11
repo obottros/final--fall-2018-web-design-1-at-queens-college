@@ -46,6 +46,11 @@ body {
    text-decoration: none;
 }
 
+.navigation a:hover {
+   font-family: 'Rajdhani SemiBold', sans-serif;
+   background-color: #aebdcc;
+}
+
    margin: auto;
    width: 1024px;
 }
