@@ -60,61 +60,66 @@ body {
    cursor: pointer;
 }
 
+.phone-menue {
+   position: absolute;
    margin: auto;
    text-decoration: none;
+   z-index: 2;
    display: none;
 }
 
-.navigation a {
+.phone-menue a {
    color: white;
    font-family: 'Rajdhani light', sans-serif;
    font-size: 19.26px;
-   line-height: 55.5px;
+   line-height: 87.5px;
    display: block;
    width: 150px;
    text-decoration: none;
 }
 
-.navigation a:hover {
+.phone-menue a:hover {
    font-family: 'Rajdhani SemiBold', sans-serif;
-   background-color: #aebdcc;
+   background-color: #f1f2f2;
+   color: #911a1e;
 }
 
-.navigation ul {
+.phone-menue ul {
    padding: 0;
    margin: 0;
    list-style-type: none;
 }
 
-.navigation ul > li {
+.phone-menue ul > li {
    float: left;
+   left: 10px;
    width: 150px;
-   position: relative;
-   background-color: #6d6e71;
+   background-color: #911a1e;
 }
 
-.navigation ul > li:hover > ul {
+.phone-menue ul > li:hover > ul {
    visibility: visible;
 }
 
-.navigation ul > li > ul {
+.phone-menue ul > li > ul {
    visibility: hidden;
    position: absolute;
 }
 
-.navigation ul > li > ul a {
+.phone-menue ul > li > ul a {
    line-height: 48px;
    height: 48px;
 }
 
+.welcome {
+   color: white;
    font-family: 'Rajdhani Regular', sans-serif;
    font-weight: 400;
    font-size: 76px;
    position: absolute;
    text-align: center;
-   top: 300px;
+   top: 170px;
    left: 356px;
-} */
 }
 
 @media only screen and (max-width: 768px) {
