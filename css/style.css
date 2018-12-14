@@ -47,7 +47,7 @@ body {
 
 .desktop-menue {
    display: flex;
-   position: absolute;
+   position: fixed;
    background-color: #911a1e;
    height: 87px;
    width: 1024px;
