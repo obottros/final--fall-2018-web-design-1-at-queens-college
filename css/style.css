@@ -202,20 +202,16 @@ body {
       position: absolute;
    }
 
-   .desktop-menue {
-      display: none;
+   .phone-menue ul > li {
+      width: 84px;
    }
 
-   .phone-menue a {
+   .phone-menue ul > li > a {
+      text-indent: 10px;
       font-size: 15.26px;
       line-height: 87.5px;
-      display: block;
-      width: 70px;
+      width: 100%;
       text-decoration: none;
-   }
-
-   .phone-menue ul > li {
-      width: 70px;
    }
 
    .red-bar {
@@ -223,7 +219,7 @@ body {
       display: inline;
    }
 
-   .disktop-logo {
+   .desktop-logo {
       display: inline;
       position: relative;
       left: 115px;
