@@ -175,6 +175,10 @@ body {
       justify-content: space-between;
    }
 
+   .desktop-logo {
+      display: none;
+   }
+
 @media only screen and (max-width: 400px) {
    .phone-menue {
       top: 0;
