@@ -22,8 +22,8 @@ body {
    overflow-y: scroll;
 }
 
-.disktop-logo {
-   position: absolute;
+.desktop-logo {
+   position: fixed;
    top: 10px;
    left: 460px;
    z-index: 1;
