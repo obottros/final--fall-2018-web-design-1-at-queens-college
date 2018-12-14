@@ -179,6 +179,11 @@ body {
       display: none;
    }
 
+   .tablet-logo {
+      display: inline;
+      left: 315px;
+   }
+
 @media only screen and (max-width: 400px) {
    .phone-menue {
       top: 0;
