@@ -17,6 +17,7 @@ html {
 
 body {
    margin: 0;
+   height: 700px;
    overflow-x: hidden;
    overflow-y: scroll;
 }
