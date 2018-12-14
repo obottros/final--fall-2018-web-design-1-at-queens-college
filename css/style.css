@@ -191,6 +191,10 @@ body {
 }
 
 @media only screen and (max-width: 400px) {
+   .desktop-menue {
+      display: none;
+   }
+
    .phone-menue {
       top: 0;
       display: block;
