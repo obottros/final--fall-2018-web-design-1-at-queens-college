@@ -8,6 +8,13 @@ html {
    width: 100vw;
 }
 
+@media (max-width: 768px) {
+   html {
+      background-size: 800px 800px;
+      background-repeat: repeat;
+   }
+}
+
 body {
    margin: 0;
    overflow-x: hidden;
