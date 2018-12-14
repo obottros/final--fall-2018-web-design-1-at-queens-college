@@ -1,0 +1,9 @@
+html {
+   background-image: none;
+}
+
+@media only screen and (max-width: 400px) {
+   .logo {
+      left: 175px;
+   }
+}
