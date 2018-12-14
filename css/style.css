@@ -8,13 +8,6 @@ html {
    width: 100vw;
 }
 
-@media (max-width: 768px) {
-   html {
-      background-size: 800px 800px;
-      background-repeat: repeat;
-   }
-}
-
 body {
    margin: 0;
    height: 700px;
@@ -22,18 +15,10 @@ body {
    overflow-y: scroll;
 }
 
-.desktop-logo {
+.logo {
    position: fixed;
    top: 10px;
    left: 460px;
-   z-index: 1;
-}
-
-.tablet-logo {
-   display: none;
-   position: absolute;
-   top: 10px;
-   left: 457px;
    z-index: 1;
 }
 
@@ -132,6 +117,11 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+   html {
+      background-size: 800px 800px;
+      background-repeat: repeat;
+   }
+
    .desktop-menue {
       display: flex;
       flex-direction: row;
@@ -146,43 +136,13 @@ body {
       justify-content: space-between;
    }
 
-   .disktop-logo {
-      display: none;
-   }
-
-   .tablet-logo {
+   .logo {
       display: inline;
       left: 315px;
    }
 
-   .welcome {
-      font-size: 57px;
-      left: 235px;
-   }
-}
-
-@media only screen and (max-width: 768px) {
-   .desktop-menue {
-      display: flex;
-      flex-direction: row;
-      width: 768px;
-      justify-content: space-between;
-   }
-
-   .desktop-menue a {
-      position: relative;
-      display: flex;
-      width: 768px;
-      justify-content: space-between;
-   }
-
-   .desktop-logo {
-      display: none;
-   }
-
-   .tablet-logo {
-      display: inline;
-      left: 315px;
+   .logo img {
+      width: 70px;
    }
 
    .welcome {
@@ -219,20 +179,15 @@ body {
       display: inline;
    }
 
-   .desktop-logo {
+   .logo {
       display: inline;
       position: relative;
-      left: 115px;
+      left: 145px;
       z-index: 10;
-   }
-
-   .tablet-logo {
-      display: none;
-      left: 265px;
    }
 
    .welcome {
       font-size: 47px;
-      left: 70px;
+      left: 85px;
    }
 }
