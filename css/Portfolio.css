@@ -1,0 +1,223 @@
+@import url('fonts.css');
+
+body {
+   margin: 0;
+   height: 700px;
+   overflow-x: hidden;
+   overflow-y: scroll;
+}
+
+.desktop-logo {
+   position: fixed;
+   top: 10px;
+   left: 460px;
+   z-index: 1;
+}
+
+.tablet-logo {
+   display: none;
+   position: absolute;
+   top: 10px;
+   left: 457px;
+   z-index: 1;
+}
+
+.red-bar {
+   background-color: #911a1e;
+   position: absolute;
+   width: 1024px;
+   height: 87px;
+   display: none;
+}
+
+.desktop-menue {
+   display: flex;
+   position: fixed;
+   background-color: #911a1e;
+   height: 87px;
+   width: 1024px;
+   justify-content: space-between;
+}
+
+.desktop-menue a {
+   display: flex;
+   justify-content: space-between;
+   font-family: 'Rajdhani light', sans-serif;
+   font-size: 16px;
+   text-decoration: none;
+   color: white;
+   margin: 30px;
+}
+
+.desktop-menue a:hover {
+   font-weight: 700;
+   cursor: pointer;
+}
+
+.phone-menue {
+   position: absolute;
+   margin: auto;
+   text-decoration: none;
+   z-index: 2;
+   display: none;
+}
+
+.phone-menue a {
+   color: white;
+   font-family: 'Rajdhani light', sans-serif;
+   font-size: 19.26px;
+   line-height: 87.5px;
+   display: block;
+   width: 150px;
+   text-decoration: none;
+}
+
+.phone-menue a:hover {
+   font-family: 'Rajdhani SemiBold', sans-serif;
+   background-color: #f1f2f2;
+   color: #911a1e;
+}
+
+.phone-menue ul {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+}
+
+.phone-menue ul > li {
+   float: left;
+   left: 10px;
+   width: 150px;
+   background-color: #911a1e;
+}
+
+.phone-menue ul > li:hover > ul {
+   visibility: visible;
+}
+
+.phone-menue ul > li > ul {
+   visibility: hidden;
+   position: absolute;
+}
+
+.phone-menue ul > li > ul a {
+   line-height: 48px;
+   height: 48px;
+}
+
+.welcome {
+   color: white;
+   font-family: 'Rajdhani Regular', sans-serif;
+   font-weight: 400;
+   font-size: 76px;
+   position: absolute;
+   text-align: center;
+   top: 230px;
+   left: 356px;
+}
+
+@media only screen and (max-width: 768px) {
+   .desktop-menue {
+      display: flex;
+      flex-direction: row;
+      width: 768px;
+      justify-content: space-between;
+   }
+
+   .desktop-menue a {
+      position: relative;
+      display: flex;
+      width: 768px;
+      justify-content: space-between;
+   }
+
+   .disktop-logo {
+      display: none;
+   }
+
+   .tablet-logo {
+      display: inline;
+      left: 315px;
+   }
+
+   .welcome {
+      font-size: 57px;
+      left: 235px;
+   }
+}
+
+@media only screen and (max-width: 768px) {
+   .desktop-menue {
+      display: flex;
+      flex-direction: row;
+      width: 768px;
+      justify-content: space-between;
+   }
+
+   .desktop-menue a {
+      position: relative;
+      display: flex;
+      width: 768px;
+      justify-content: space-between;
+   }
+
+   .desktop-logo {
+      display: none;
+   }
+
+   .tablet-logo {
+      display: inline;
+      left: 315px;
+   }
+
+   .welcome {
+      font-size: 57px;
+      left: 235px;
+   }
+}
+
+@media only screen and (max-width: 400px) {
+   .desktop-menue {
+      display: none;
+   }
+
+   .phone-menue {
+      top: 0;
+      display: block;
+      position: absolute;
+   }
+
+   .phone-menue ul > li {
+      width: 84px;
+   }
+
+   .phone-menue ul > li > a {
+      text-indent: 10px;
+      font-size: 15.26px;
+      line-height: 87.5px;
+      width: 100%;
+      text-decoration: none;
+   }
+
+   .red-bar {
+      top: 0;
+      display: inline;
+   }
+
+   .desktop-logo {
+      display: inline;
+      position: relative;
+      left: 115px;
+      z-index: 10;
+   }
+
+   .tablet-logo {
+      display: none;
+      left: 265px;
+   }
+
+   .welcome {
+      font-size: 47px;
+      left: 70px;
+   }
+}
