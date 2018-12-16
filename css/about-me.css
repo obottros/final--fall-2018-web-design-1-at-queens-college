@@ -56,6 +56,11 @@ html {
       height: 100vh;
    }
 
+   .text img {
+      left: 150px;
+      z-index: 2;
+   }
+
    }
 
    .logo {
