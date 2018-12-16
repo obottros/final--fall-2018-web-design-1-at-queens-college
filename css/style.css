@@ -118,7 +118,7 @@ body {
 
 @media only screen and (max-width: 768px) {
    html {
-      background-size: 700px 700px;
+      background-size: 768px 700px;
    }
 
    .desktop-menue {
