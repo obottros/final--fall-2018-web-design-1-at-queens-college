@@ -52,6 +52,10 @@ html {
 
    .phone-img img {
       display: inline;
+      width: 50%;
+      height: 100vh;
+   }
+
    }
 
    .logo {
