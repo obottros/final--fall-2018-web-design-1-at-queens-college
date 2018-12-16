@@ -25,6 +25,12 @@ html {
    display: none;
 }
 
+@media only screen and (max-width: 768px) {
+   html {
+      background-size: 350px 700px;
+      background-repeat: no-repeat;
+   }
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
