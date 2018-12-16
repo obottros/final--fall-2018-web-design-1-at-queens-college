@@ -2,6 +2,18 @@ html {
    background-image: none;
 }
 
+.red-bar {
+   position: fixed;
+}
+
+.phone-menue {
+   position: fixed;
+}
+
+.logo {
+   position: fixed;
+}
+
 .image-container img {
    width: 100%;
 }
