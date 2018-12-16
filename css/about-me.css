@@ -50,6 +50,10 @@ html {
       background-image: none;
    }
 
+   .phone-img img {
+      display: inline;
+   }
+
    .logo {
       left: 175px;
    }
