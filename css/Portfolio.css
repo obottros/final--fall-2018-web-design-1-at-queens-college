@@ -10,6 +10,10 @@ html {
    width: 1000px;
 }
 
+.image-container {
+   position: relative;
+   top: 87px;
+   left: 55px;
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
