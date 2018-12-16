@@ -18,6 +18,13 @@ html {
    float: left;
    width: 22%;
    z-index: -1;
+}
+
+@media screen and (max-width: 768px) {
+   #container {
+      width: 700px;
+   }
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
