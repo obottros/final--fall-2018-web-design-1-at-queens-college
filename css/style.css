@@ -152,6 +152,11 @@ body {
 }
 
 @media only screen and (max-width: 400px) {
+   html {
+      background-size: 400px 700px;
+      background-repeat: repeat;
+   }
+
    .desktop-menue {
       display: none;
    }
