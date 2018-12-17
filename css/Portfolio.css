@@ -27,8 +27,8 @@ html {
 
 .image-container a {
    position: static;
-   margin: 0 5px;
-   padding-left: 15px;
+   margin: 16px;
+   padding-top: 5px;
    float: left;
    width: 30%;
    z-index: -1;
@@ -41,7 +41,7 @@ html {
 
    .image-container a {
       margin: 3px 1px;
-      padding-left: 45px;
+      padding-left: 55px;
       float: left;
       width: 40%;
       z-index: -1;
@@ -65,5 +65,10 @@ html {
       float: left;
       width: 100%;
       z-index: -1;
+   }
+
+   .image-container a {
+      margin: 0;
+      padding: 30px;
    }
 }
