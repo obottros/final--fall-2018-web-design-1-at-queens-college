@@ -147,6 +147,11 @@ a:visited {
       background-size: 768px 700px;
    }
 
+   .desktop-menue a:hover::after,
+   a:visited:hover::after {
+      width: 55px;
+   }
+
    .desktop-menue {
       display: flex;
       flex-direction: row;
