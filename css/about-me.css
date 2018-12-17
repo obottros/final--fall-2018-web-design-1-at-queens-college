@@ -1,18 +1,18 @@
 html {
    background-image: url('../img/about-me.png');
-   position: fixed;
+   position: absolute;
    background-color: #eaeaea;
 }
 
 .text img {
-   position: fixed;
+   position: absolute;
    height: 555px;
    top: 80px;
    left: 395px;
 }
 
 .text p {
-   position: fixed;
+   position: absolute;
    font-family: 'Rajdhani Regular', sans-serif;
    font-size: 24px;
    line-height: 30px;
@@ -52,7 +52,7 @@ html {
 
    .phone-img img {
       display: inline;
-      width: 50%;
+      width: 20%;
       height: 100vh;
    }
 
