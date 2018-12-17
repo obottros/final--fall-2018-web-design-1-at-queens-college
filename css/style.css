@@ -108,6 +108,18 @@ body {
    height: 48px;
 }
 
+a::after,
+a:visited::after {
+   content: '';
+   height: 1px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 0%;
+   background: #fff;
+   transition: .25s;
+}
+
 .welcome {
    color: white;
    font-family: 'Rajdhani Regular', sans-serif;
