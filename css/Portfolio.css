@@ -27,7 +27,8 @@ html {
 
 .image-container a {
    position: static;
-   margin: 0 16px;
+   margin: 0 5px;
+   padding-left: 15px;
    float: left;
    width: 30%;
    z-index: -1;
