@@ -25,11 +25,9 @@ html {
    width: 1024px;
 }
 
-.image-container {
-   position: relative;
-   top: 87px;
-   left: 40px;
-   margin-right: 10px;
+.image-container a {
+   position: static;
+   margin: 0 16px;
    float: left;
    width: 30%;
    z-index: -1;
