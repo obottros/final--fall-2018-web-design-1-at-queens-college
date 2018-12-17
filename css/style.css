@@ -23,7 +23,7 @@ body {
 }
 
 .red-bar {
-   background-color: #911a1e;
+   background-color: #333542;
    position: absolute;
    width: 1024px;
    height: 87px;
@@ -33,7 +33,7 @@ body {
 .desktop-menue {
    display: flex;
    position: fixed;
-   background-color: #911a1e;
+   background-color: #333542;
    height: 87px;
    width: 1024px;
    justify-content: space-between;
@@ -75,7 +75,7 @@ body {
 .phone-menue a:hover {
    font-family: 'Rajdhani SemiBold', sans-serif;
    background-color: #f1f2f2;
-   color: #911a1e;
+   color: #333542;
 }
 
 .phone-menue ul {
@@ -88,7 +88,7 @@ body {
    float: left;
    left: 10px;
    width: 150px;
-   background-color: #911a1e;
+   background-color: #333542;
 }
 
 .phone-menue ul > li:hover > ul {
