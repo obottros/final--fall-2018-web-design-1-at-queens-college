@@ -57,11 +57,8 @@ html {
    }
 
    .image-container {
-      top: 10px;
-      left: 20px;
-      margin: auto;
       float: left;
-      width: 90%;
+      width: 100%;
       z-index: -1;
    }
 }
