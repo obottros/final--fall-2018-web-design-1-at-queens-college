@@ -38,9 +38,9 @@ html {
       width: 700px;
    }
 
-   .image-container {
-      left: 75px;
-      margin: auto;
+   .image-container a {
+      margin: 3px 1px;
+      padding-left: 55px;
       float: left;
       width: 40%;
       z-index: -1;
