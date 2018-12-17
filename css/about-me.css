@@ -4,6 +4,10 @@ html {
    background-color: #eaeaea;
 }
 
+body {
+   height: 100vh;
+}
+
 .text img {
    position: absolute;
    height: 555px;
