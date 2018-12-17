@@ -120,6 +120,11 @@ a:visited::after {
    transition: .25s;
 }
 
+.desktop-menue a:hover::after,
+a:visited:hover::after {
+   width: 100%;
+}
+
 .welcome {
    color: white;
    font-family: 'Rajdhani Regular', sans-serif;
