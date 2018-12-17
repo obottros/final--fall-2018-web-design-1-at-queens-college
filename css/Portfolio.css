@@ -48,6 +48,10 @@ html {
    }
 }
 
+.container a:hover {
+   cursor: pointer;
+}
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
