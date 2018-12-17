@@ -15,7 +15,7 @@ html {
    position: fixed;
 }
 
-.image-container img {
+.image-container a {
    width: 100%;
 }
 
