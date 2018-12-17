@@ -20,6 +20,8 @@ html {
 }
 
 #container {
+   position: static;
+   padding-top: 100px;
    width: 1024px;
 }
 
