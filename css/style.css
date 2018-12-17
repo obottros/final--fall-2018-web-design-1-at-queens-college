@@ -125,6 +125,12 @@ a:visited:hover::after {
    width: 100%;
 }
 
+.desktop-menue a,
+a:visited {
+   text-decoration: none;
+   position: relative;
+}
+
 .welcome {
    color: white;
    font-family: 'Rajdhani Regular', sans-serif;
