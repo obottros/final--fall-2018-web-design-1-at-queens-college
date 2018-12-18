@@ -26,6 +26,7 @@ body {
    top: 80px;
    left: 395px;
    z-index: -1;
+   display: none;
 }
 
 .text p {
