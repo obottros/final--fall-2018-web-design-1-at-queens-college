@@ -163,4 +163,9 @@ html {
       width: 210px;
    }
 
+   .send p {
+      left: 9px;
+   }
+
+   .send {
 }
