@@ -173,12 +173,6 @@ a:visited {
       justify-content: space-between;
    }
 
-   .logo {
-      display: inline;
-      top: 8px;
-      left: 315px;
-   }
-
    .logo img {
       width: 60px;
    }
