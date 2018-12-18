@@ -10,3 +10,8 @@ html {
    text-align: center;
 }
 
+.small-image {
+   display: none;
+   position: relative;
+}
+
