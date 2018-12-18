@@ -22,15 +22,16 @@ body {
    position: fixed;
    top: 5px;
    left: 460px;
-   z-index: 1;
+   z-index: 100;
 }
 
-.red-bar {
+.blue-bar {
    background-color: #333542;
    position: fixed;
    width: 1024px;
    height: 60px;
    display: none;
+   z-index: 1;
 }
 
 .desktop-menue {
@@ -40,6 +41,7 @@ body {
    height: 60px;
    width: 1024px;
    justify-content: space-between;
+   z-index: 1;
 }
 
 .desktop-menue a {
@@ -132,7 +134,7 @@ a:visited {
 }
 
 .welcome {
-   color: white;
+   color: #be1e2d;
    font-family: 'Rajdhani Regular', sans-serif;
    font-weight: 400;
    font-size: 76px;
@@ -211,7 +213,7 @@ a:visited {
       text-decoration: none;
    }
 
-   .red-bar {
+   .blue-bar {
       top: 0;
       display: inline;
    }
