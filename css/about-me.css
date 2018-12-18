@@ -33,7 +33,7 @@ body {
    color: #be1e2d;
    font-family: 'Rajdhani light', sans-serif;
    font-size: 24px;
-   line-height: 30px;
+   line-height: 35px;
    width: 500px;
    top: 115px;
    left: 500px;
@@ -52,7 +52,7 @@ body {
 
    .text p {
       font-size: 16px;
-      line-height: 30px;
+      line-height: 37px;
       width: 340px;
       top: 130px;
       left: 375px;
@@ -61,6 +61,7 @@ body {
    .text img {
       left: 270px;
       z-index: 1;
+      height: 652px;
    }
 }
 
@@ -76,6 +77,7 @@ body {
    }
 
    .text img {
+      height: 450px;
       left: 150px;
       z-index: 2;
    }
