@@ -25,6 +25,14 @@ html {
    left: 15px;
 }
 
+.subject p {
+   position: relative;
+   font-family: 'Rajdhani light', sans-serif;
+   color: #333542;
+   top: -13px;
+   left: 15px;
+}
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
