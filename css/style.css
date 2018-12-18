@@ -22,7 +22,7 @@ body {
    position: fixed;
    top: 5px;
    left: 460px;
-   z-index: 100;
+   z-index: 100000000;
 }
 
 .blue-bar {
