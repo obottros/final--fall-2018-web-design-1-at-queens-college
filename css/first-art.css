@@ -21,8 +21,8 @@ html {
    color: #be1e2d;
    padding: 10px;
    top: 90px;
-   width: 470px;
-   left: 280px;
+   width: 475px;
+   left: 270px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -37,19 +37,23 @@ html {
 }
 
 @media only screen and (max-width: 400px) {
+   .logo {
+      left: 175px;
+   }
+
    .large-image {
       display: none;
    }
 
    .small-image {
       display: inline;
-      left: 10px;
+      left: 50px;
       top: 80px;
    }
 
    .text {
-      width: 300px;
+      width: 305px;
       top: 60px;
-      left: 5px;
+      left: 40px;
    }
 }
