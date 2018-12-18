@@ -49,6 +49,7 @@ body {
    html {
       background-size: 500px 700px;
       background-repeat: no-repeat;
+      background-position: -150px;
    }
 
    .text p {
