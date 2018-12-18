@@ -45,6 +45,11 @@ html {
    background-color: #be1e2d;
 }
 
+.send p:hover {
+   font-family: 'Rajdhani SemiBold', sans-serif;
+   color: white;
+}
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
