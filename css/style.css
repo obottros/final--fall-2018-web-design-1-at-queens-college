@@ -136,13 +136,13 @@ a:visited {
 }
 
 .welcome {
-   color: #be1e2d;
+   position: absolute;
+   color: white;
    font-family: 'Rajdhani Regular', sans-serif;
    font-weight: 400;
    font-size: 76px;
-   position: absolute;
    text-align: center;
-   top: 230px;
+   top: 180px;
    left: 356px;
 }
 
@@ -229,6 +229,6 @@ a:visited {
 
    .welcome {
       font-size: 47px;
-      left: 85px;
+      left: 120px;
    }
 }
