@@ -16,6 +16,10 @@ body {
    z-index: 900;
 }
 
+.phone-menue {
+   z-index: 900;
+}
+
 .text img {
    position: absolute;
    height: 555px;
