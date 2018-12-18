@@ -35,6 +35,16 @@ html {
    left: 15px;
 }
 
+.email {
+   position: absolute;
+   top: 168px;
+   left: 250px;
+   width: 540px;
+   height: 25px;
+   border: 1px solid #be1e2d;
+   background-color: white;
+}
+
 .subject p {
    position: relative;
    font-family: 'Rajdhani light', sans-serif;
