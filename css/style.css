@@ -26,7 +26,7 @@ body {
 }
 
 .blue-bar {
-   background-color: #333542;
+   background-color: #171e29;
    /* box-shadow: -1px 1px 5px 5px rgba(129, 129, 129, .75); */
    position: fixed;
    width: 1024px;
@@ -39,7 +39,7 @@ body {
    /* box-shadow: -1px 1px 5px 5px rgba(129, 129, 129, .75); */
    display: flex;
    position: fixed;
-   background-color: #333542;
+   background-color: #171e29;
    height: 60px;
    width: 1024px;
    justify-content: space-between;
@@ -82,7 +82,7 @@ body {
 .phone-menue a:hover {
    font-family: 'Rajdhani SemiBold', sans-serif;
    background-color: #f1f2f2;
-   color: #333542;
+   color: #171e29;
 }
 
 .phone-menue ul {
@@ -95,7 +95,7 @@ body {
    float: left;
    left: 10px;
    width: 150px;
-   background-color: #333542;
+   background-color: #171e29;
 }
 
 .phone-menue ul > li:hover > ul {
