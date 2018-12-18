@@ -216,6 +216,7 @@ a:visited {
    .blue-bar {
       top: 0;
       display: inline;
+      z-index: 1;
    }
 
    .logo {
