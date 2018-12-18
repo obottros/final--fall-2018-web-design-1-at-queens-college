@@ -15,3 +15,13 @@ html {
    position: relative;
 }
 
+.text {
+   position: relative;
+   font-family: 'Rajdhani SemiBold', sans-serif;
+   color: #be1e2d;
+   padding: 10px;
+   top: 90px;
+   width: 470px;
+   left: 280px;
+}
+
