@@ -53,6 +53,16 @@ html {
    left: 15px;
 }
 
+.subject {
+   position: absolute;
+   top: 215px;
+   left: 250px;
+   width: 540px;
+   height: 25px;
+   border: 1px solid #be1e2d;
+   background-color: white;
+}
+
 .message p {
    position: absolute;
    font-family: 'Rajdhani light', sans-serif;
