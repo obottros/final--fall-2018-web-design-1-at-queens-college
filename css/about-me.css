@@ -60,9 +60,10 @@ body {
    }
 
    .text img {
-      left: 270px;
-      z-index: 1;
+      top: 52px;
       height: 652px;
+      left: 260px;
+      z-index: -1;
    }
 }
 
