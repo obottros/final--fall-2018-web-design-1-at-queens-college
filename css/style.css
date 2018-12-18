@@ -169,6 +169,7 @@ a:visited {
       position: relative;
       display: flex;
       width: 768px;
+      left: 40px;
       justify-content: space-between;
    }
 
