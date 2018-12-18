@@ -78,15 +78,6 @@ body {
       height: 100vh;
    }
 
-   /* .text img {
-      position: absolute;
-      width: 100px;
-      height: 450px;
-      top: 60px;
-      left: 150px;
-      z-index: 10;
-   } */
-
    .text p {
       font-family: 'Rajdhani SemiBold', sans-serif;
       color: #333542;
