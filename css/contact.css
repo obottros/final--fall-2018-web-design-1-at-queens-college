@@ -70,6 +70,16 @@ html {
    left: 15px;
 }
 
+.message {
+   position: absolute;
+   top: 262px;
+   left: 250px;
+   width: 540px;
+   height: 280px;
+   border: 1px solid #be1e2d;
+   background-color: white;
+}
+
 .send:hover {
    cursor: pointer;
    background-color: #be1e2d;
