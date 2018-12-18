@@ -84,7 +84,7 @@ body {
       height: 450px;
       top: 60px;
       left: 150px;
-      z-index: 2;
+      z-index: 10;
    }
 
    .text p {
