@@ -80,6 +80,7 @@ body {
 
    .text img {
       height: 450px;
+      top: 60px;
       left: 150px;
       z-index: 2;
    }
@@ -89,7 +90,7 @@ body {
       font-size: 11px;
       line-height: 21px;
       width: 165px;
-      top: 95px;
+      top: 60px;
       left: 220px;
       z-index: 10;
    }
