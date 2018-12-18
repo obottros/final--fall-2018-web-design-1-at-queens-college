@@ -33,6 +33,13 @@ html {
    left: 15px;
 }
 
+.message p {
+   position: absolute;
+   font-family: 'Rajdhani light', sans-serif;
+   color: #333542;
+   left: 15px;
+}
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
