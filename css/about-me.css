@@ -78,7 +78,7 @@ body {
       height: 100vh;
    }
 
-   .text img {
+   /* .text img {
       position: absolute;
       width: 100px;
       height: 450px;
