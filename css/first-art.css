@@ -25,3 +25,9 @@ html {
    left: 280px;
 }
 
+@media only screen and (max-width: 768px) {
+   .large-image {
+      width: 50%;
+      left: 125px;
+   }
+
