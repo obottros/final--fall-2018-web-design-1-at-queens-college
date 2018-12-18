@@ -8,6 +8,10 @@ body {
    height: 100vh;
 }
 
+.blue-bar {
+   z-index: 100;
+}
+
 .text img {
    position: absolute;
    height: 555px;
