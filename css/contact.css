@@ -3,6 +3,12 @@ html {
    background-color: #eaeaea;
 }
 
+/* .image img {
+   position: absolute;
+   top: 50px;
+   right: 0;
+} */
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
