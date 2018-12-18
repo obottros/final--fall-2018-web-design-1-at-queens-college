@@ -12,6 +12,10 @@ body {
    z-index: 100;
 }
 
+.logo {
+   z-index: 900;
+}
+
 .text img {
    position: absolute;
    height: 555px;
