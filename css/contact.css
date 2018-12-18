@@ -114,6 +114,10 @@ html {
    left: 335px;
 }
 @media only screen and (max-width: 768px) {
+   .name {
+      left: 100px;
+   }
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
