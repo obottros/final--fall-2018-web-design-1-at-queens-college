@@ -40,6 +40,11 @@ html {
    left: 15px;
 }
 
+.send:hover {
+   cursor: pointer;
+   background-color: #be1e2d;
+}
+
 @media only screen and (max-width: 400px) {
    .logo {
       left: 175px;
