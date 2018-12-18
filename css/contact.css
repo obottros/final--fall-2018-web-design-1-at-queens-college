@@ -80,6 +80,16 @@ html {
    background-color: white;
 }
 
+.send {
+   position: absolute;
+   top: 565px;
+   left: 250px;
+   width: 70px;
+   height: 25px;
+   border: 1px solid #be1e2d;
+   background-color: white;
+}
+
 .send:hover {
    cursor: pointer;
    background-color: #be1e2d;
