@@ -79,6 +79,8 @@ body {
    }
 
    .text img {
+      position: absolute;
+      width: 100px;
       height: 450px;
       top: 60px;
       left: 150px;
