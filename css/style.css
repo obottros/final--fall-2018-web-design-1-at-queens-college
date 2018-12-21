@@ -297,4 +297,12 @@ body {
    top: 370px;
 }
 
+.footer {
+   position: absolute;
+   height: 70px;
+   width: 100%;
+   top: 715px;
+   background-color: white;
+}
+
 }
