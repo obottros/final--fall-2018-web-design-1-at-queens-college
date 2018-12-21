@@ -287,4 +287,14 @@ body {
    z-index: 100000000;
 }
 
+.main a {
+   color: #915339;
+   font-family: 'Rajdhani Regular', sans-serif;
+   font-size: 50px;
+   text-decoration: none;
+   position: absolute;
+   left: 880px;
+   top: 370px;
+}
+
 }
