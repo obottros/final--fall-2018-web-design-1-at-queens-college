@@ -250,4 +250,14 @@ body {
    overflow-y: scroll;
 }
 
+.logo img {
+   position: fixed;
+   top: 10px;
+   float: left;
+   left: 15px;
+   width: 70px;
+   height: 49px;
+   z-index: 9000000;
+}
+
 }
