@@ -278,4 +278,13 @@ body {
    background-color: white;
 }
 
+.menu a {
+   clear: left;
+   text-decoration: none;
+   color: #915339;
+   margin: 0 30px;
+   line-height: 70px;
+   z-index: 100000000;
+}
+
 }
