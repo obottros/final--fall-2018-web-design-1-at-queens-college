@@ -38,7 +38,7 @@ body {
 }
 
 .desktop-menue {
-   /* box-shadow: -1px 1px 5px 5px rgba(129, 129, 129, .75); */
+   box-shadow: -1px 1px 5px 5px rgba(129, 129, 129, .75);
    display: flex;
    position: fixed;
    background-color: #171e29;
