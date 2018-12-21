@@ -311,4 +311,20 @@ body {
    margin-top: 25px;
 }
 
+label {
+   position: fixed;
+   margin: 0 40px 0 0;
+   font-size: 26px;
+   line-height: 70px;
+   display: none;
+   width: 26px;
+   color: white;
+   float: left;
+   z-index: 10000;
+}
+
+#toggle {
+   display: none;
+}
+
 }
