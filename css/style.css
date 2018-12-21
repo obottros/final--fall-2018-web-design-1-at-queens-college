@@ -305,4 +305,10 @@ body {
    background-color: white;
 }
 
+.footer p {
+   text-align: center;
+   color: #915339;
+   margin-top: 25px;
+}
+
 }
