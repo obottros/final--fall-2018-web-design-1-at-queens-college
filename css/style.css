@@ -260,4 +260,12 @@ body {
    z-index: 9000000;
 }
 
+.nav {
+   position: fixed;
+   text-align: right;
+   height: 70px;
+   line-height: 70px;
+   z-index: 10000;
+}
+
 }
